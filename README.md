@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cyber Security and GoLang
-- 🌱 I’m currently learning GoLnag, javaScript and hacking methods
+- 🌱 I’m currently learning GoLang, JavaScript, JavaScript Frameworks(Angular,Vue etc.) and hacking methods
 - 🤔 Looking for ways to learn Cyber Security.
 - 📫 How to reach me: 
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/SgtKOCD) 
