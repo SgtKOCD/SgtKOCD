@@ -3,7 +3,7 @@
 
 ✨Welcome to my repository!!!!✨
 
-Here are some ideas to get you started:
+This is me:
 
 - 🔭 I’m currently working on Cyber Security and GoLang
 - 🌱 I’m currently learning GoLang, JavaScript, JavaScript Frameworks(Angular,Vue etc.) and hacking methods
