@@ -1,3 +1,7 @@
+<br><br>
+<img src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="center"/>
+<br><br>
+
 ### Hi there 👋
 
 
@@ -11,9 +15,7 @@ This is me:
 - I will graduate from Düzce University, Department of Computer Engineering (January 2022)
 - 📫 How to reach me: <br> <br>
   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SgtKOCD)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka%C4%9Fan-o%C4%9Fuz-can-demir%C3%B6z/)
-<br><br>
-<img src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="center"/>
-<br><br>
+
 
 ### Languages and Tools:
 
