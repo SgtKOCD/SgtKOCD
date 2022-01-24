@@ -39,6 +39,6 @@ This is me:
 
 ### Working Environments:
 - <img align="left" alt="Windows" width="100px" src="https://www.etu.edu.tr/files/editor_images/Windows_logo_Cyan_rgb_D.png" /><br><br>
-- <img align="left" alt="Linux" width="80px" src="https://encrypted-tbn0.gstatic.com/images q=tbn:ANd9GcTYq5DQR6iFWXXX5EvIf5cqmYVSaQ1azm2jhx8E3GlG9KUWBzWszUMFp85DriB0lDVkqPk&usqp=CAU" />
+- <img align="left" alt="Linux" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4fUlMRZa1U8p-HRbPEuODeOiMmUHFsC4XAgbAf3evBYgrqWzi8IdM3ImcfNDaV1p3hs&usqp=CAU" />
 
 
