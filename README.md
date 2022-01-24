@@ -1,5 +1,5 @@
 
-<img align="center" src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="auto"/ >
+<img align="center" src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif"/ >
 
 
 ### Hi there 👋
