@@ -12,8 +12,9 @@ This is me:
 - 📫 How to reach me: <br> <br>
   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SgtKOCD)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka%C4%9Fan-o%C4%9Fuz-can-demir%C3%B6z/)
 <br><br>
-<img src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="center">
+<img src="https://c.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="center"/>
 <br><br>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="JupyterLab" width="40px" src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" />
