@@ -40,6 +40,6 @@ This is me:
 - <img align="center" alt="Windows" width="120px" src="https://www.etu.edu.tr/files/editor_images/Windows_logo_Cyan_rgb_D.png" /><br><br>
 - <img align="center" alt="Linux" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4fUlMRZa1U8p-HRbPEuODeOiMmUHFsC4XAgbAf3evBYgrqWzi8IdM3ImcfNDaV1p3hs&usqp=CAU" />
 <br>
-![Github stats]("https://github-readme-stats.vercel.app/api/top-langs/?username={SgtKOCD}&theme=blue-green")
+[![Github stats]("https://github-readme-stats.vercel.app/api/top-langs/?username={SgtKOCD}&theme=blue-green")]
 
 
