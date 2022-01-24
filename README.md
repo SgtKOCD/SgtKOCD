@@ -38,8 +38,7 @@ This is me:
 <br>
 
 ### Working Environments:
-- <img align="left" alt="Windows" width="120px" src="https://www.etu.edu.tr/files/editor_images/Windows_logo_Cyan_rgb_D.png" />
-<br>
-- <img align="left" alt="Linux" width="80px" src="https://www.webtekno.com/images/editor/default/0002/76/1674678e8b51d708035a9bdad3bfc16dc9be9aa8.jpeg" />
+- <img align="left" alt="Windows" width="100px" src="https://www.etu.edu.tr/files/editor_images/Windows_logo_Cyan_rgb_D.png" />
+- <img align="left" alt="Linux" width="80px" src="https://img2.pngindir.com/20180802/whc/kisspng-penguin-tux-design-logo-linux-cheap-linux-hosting-cheapest-linux-web-hosting-pla-5b6322afc09510.3494081415332235997888.jpg" />
 
 
