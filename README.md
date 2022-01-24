@@ -15,7 +15,7 @@ This is me:
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="JupyterLab" width="32px" src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" />
 <img align="left" alt="Spyder5" width="32px" src="https://d1zx6djv3kb1v7.cloudfront.net/wp-content/media/2020/05/HOW-TO-CODE-IN-PYTHON-USING-SPYDER-6i2tutorials.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -31,6 +31,7 @@ This is me:
 <img align="" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="bottom" alt="MSOffice" width="50px" src="https://upload.wikimedia.org/wikipedia/tr/5/50/Microsoft_Office_2013_logo_and_wordmark_svg.png" />
+
 
 
 
