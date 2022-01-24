@@ -11,7 +11,9 @@ This is me:
 - I will graduate from Düzce University, Department of Computer Engineering (January 2022)
 - 📫 How to reach me: <br> <br>
   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SgtKOCD)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka%C4%9Fan-o%C4%9Fuz-can-demir%C3%B6z/)
-
+<br><br>
+<img align=center"" src="https://c.tenor.com/KjVxfRrrncUAAAAS/matrix.gif" width="auto">
+<br><br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="JupyterLab" width="40px" src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" />
@@ -40,6 +42,6 @@ This is me:
 - <img align="center" alt="Windows" width="120px" src="https://www.etu.edu.tr/files/editor_images/Windows_logo_Cyan_rgb_D.png" /><br><br>
 - <img align="center" alt="Linux" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4fUlMRZa1U8p-HRbPEuODeOiMmUHFsC4XAgbAf3evBYgrqWzi8IdM3ImcfNDaV1p3hs&usqp=CAU" />
 <br>
-[![Github stats]("https://github-readme-stats.vercel.app/api/top-langs/?username={SgtKOCD}&theme=blue-green")]
+
 
 
