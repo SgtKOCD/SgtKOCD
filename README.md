@@ -27,8 +27,7 @@ This is me:
 <img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" />
 <br>
 <br>
-<br>
-<br>
+
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -37,8 +36,7 @@ This is me:
 <img align="left" alt="MSOffice" width="110px" src="https://upload.wikimedia.org/wikipedia/tr/5/50/Microsoft_Office_2013_logo_and_wordmark_svg.png" />
 <br>
 <br>
-<br>
-<br>
+
 ### Working Environments:
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
