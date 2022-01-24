@@ -38,6 +38,8 @@ This is me:
 <br>
 
 ### Working Environments:
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Windows" width="40px" src="https://www.etu.edu.tr/files/editor_images/Windows_logo_Cyan_rgb_D.png" />
+<br>
+<img align="left" alt="Linux" width="40px" src="https://www.webtekno.com/images/editor/default/0002/76/1674678e8b51d708035a9bdad3bfc16dc9be9aa8.jpeg" />
 
 
