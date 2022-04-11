@@ -35,7 +35,7 @@ This is me:
 <img align="left" alt="Bash" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="MSOffice" width="70px" src="https://upload.wikimedia.org/wikipedia/tr/5/50/Microsoft_Office_2013_logo_and_wordmark_svg.png" />
-<img align="left" alt="MSOffice" width="40px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" />
+
 <br>
 
 ### Working Environments:
