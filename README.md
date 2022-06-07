@@ -12,7 +12,7 @@ This is me:
 - 🔭 I’m currently working on Cyber Security and GoLang
 - 🌱 I’m currently learning GoLang, JavaScript, JavaScript Frameworks(Angular,Vue etc.) and hacking methods
 - 🤔 Looking for ways to learn Cyber Security.
-- I will graduate from Düzce University, Department of Computer Engineering (January 2022)
+- 👨‍🎓 I will graduate from Düzce University, Department of Computer Engineering (January 2022)
 - 📫 How to reach me: <br> <br>
   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SgtKOCD)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka%C4%9Fan-o%C4%9Fuz-can-demir%C3%B6z/)
 
