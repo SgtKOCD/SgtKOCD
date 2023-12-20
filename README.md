@@ -19,7 +19,7 @@ This is me:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JupyterLab" width="40px" src="https://jupyter.org/assets/try/jupyter.png" />
-<img align="left" alt="Spyder5" width="40px" src="https://d1zx6djv3kb1v7.cloudfront.net/wp-content/media/2020/05/HOW-TO-CODE-IN-PYTHON-USING-SPYDER-6i2tutorials.png" />
+<img align="left" alt="Spyder5" width="40px" src="https://images.app.goo.gl/eDmu6VmJ545p3spGA" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
