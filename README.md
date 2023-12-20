@@ -1,4 +1,5 @@
-<img src="https://tenor.com/tr/view/code-purpose-of-life-matrix-gif-5601363">
+
+<img src="[https://tenor.com/tr/view/code-purpose-of-life-matrix-gif-5601363](https://tenor.com/view/1000-gif-24970074)">
 ### Hi there 👋
 
 
