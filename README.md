@@ -1,7 +1,5 @@
 
-<img src="https://tenor.com/tr/view/code-purpose-of-life-matrix-gif-5601363" width="center" align="center" />
-
-
+<div class="tenor-gif-embed" data-postid="5601363" data-share-method="host" data-aspect-ratio="1.35593" data-width="100%"><a href="https://tenor.com/view/code-purpose-of-life-matrix-gif-5601363">Code Purpose Of Life GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ### Hi there 👋
 
 
